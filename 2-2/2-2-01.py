@@ -42,4 +42,4 @@ for j in range(0, 8):  # 이미지의 행벡터(Xj)를 방문하기
         else:
             putPixel(i, j, pixelSize, "white")  # Xji <= 0 인 경우 흰색 칠하기
 
-turtle.Screen().exitonclick()  # 자동 꺼짐 방지 (클릭)
+turtle.Screen().exitonclick()  # 자동 꺼짐 방지 (클릭 )
